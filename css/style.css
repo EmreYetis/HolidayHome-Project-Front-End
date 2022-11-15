@@ -1,0 +1,15 @@
+.slider {
+    width: auto;
+    height: 500px;
+}
+.img-w-h {
+    width: 80%;
+    height: auto;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+
